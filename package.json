@@ -5,7 +5,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "runnerplain",
   "license": "ISC",
-  "description": ""
+  "description": "Site vitrine pour l'entreprise Au fil des pierres",
+  "devDependencies": {
+    "sass": "^1.56.2"
+  }
 }
