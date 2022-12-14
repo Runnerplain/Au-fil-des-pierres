@@ -1,0 +1,16 @@
+body {
+  background-color: white;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  padding-top: 10rem;
+  position: relative;
+}
+
+.logo img {
+  width: 50%;
+}
+
+/*# sourceMappingURL=style.css.map */
